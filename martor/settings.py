@@ -1,4 +1,19 @@
 from django.conf import settings
+import os
+
+LANGUAGE_CODE = 'pt-BR'
+TIME_ZONE = 'America/Sao_Paulo'
+USE_L10N = True
+USE_TZ = True
+USE_I18N = True
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+LANGUAGES = (
+('en', u'English'),
+('pt-br', u'Português'),
+('es', u'Español')
+)
+LOCALE_PATHS = (os.path.join(BASE_DIR, 'locale'),)
+
 
 # Global martor settings
 # Input: string boolean, `true/false`

@@ -52,8 +52,6 @@ class MartorWidget(forms.Textarea):
             'plugins/js/ext-language_tools.js',
             'plugins/js/theme-github.js',
             'plugins/js/highlight.min.js',
-            'plugins/js/resizable.min.js',
-            'plugins/js/emojis.min.js',
             'martor/js/martor.min.js',
         )
         if MARTOR_ENABLE_CONFIGS['jquery'] == 'true':

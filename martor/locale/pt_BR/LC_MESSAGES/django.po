@@ -16,34 +16,35 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #: martor/templates/martor/editor.html:5
 msgid "Editor"
-msgstr ""
+msgstr "Editor"
 
 #: martor/templates/martor/editor.html:6
 msgid "Preview"
-msgstr ""
+msgstr "Prévia"
 
 #: martor/templates/martor/editor.html:11
 msgid "Uploading... please wait..."
-msgstr ""
+msgstr "Realizando upload... Por favor espere..."
 
 #: martor/templates/martor/editor.html:18
 msgid "Nothing to preview"
-msgstr ""
+msgstr "Nada para visualizar"
 
 #: martor/templates/martor/emoji.html:4
 msgid "Select Emoji to Insert"
-msgstr ""
+msgstr "Escolha um Emoji para inserir"
 
 #: martor/templates/martor/emoji.html:8
 msgid "Preparing emojis..."
-msgstr ""
+msgstr "Preparando Emojis"
 
 #: martor/templates/martor/guide.html:4
 msgid "Markdown Guide"
-msgstr ""
+msgstr "Guia Markdown"
 
 #: martor/templates/martor/guide.html:6
 #, python-format
@@ -55,85 +56,85 @@ msgstr ""
 #: martor/templates/martor/guide.html:10
 #: martor/templates/martor/toolbar.html:26
 msgid "Code"
-msgstr ""
+msgstr "Código"
 
 #: martor/templates/martor/guide.html:11
 msgid "Or"
-msgstr ""
+msgstr "Ou"
 
 #: martor/templates/martor/guide.html:14
 msgid "... to Get"
-msgstr ""
+msgstr "... para Obter"
 
 #: martor/templates/martor/toolbar.html:4
 msgid "Bold"
-msgstr ""
+msgstr "Negrito"
 
 #: martor/templates/martor/toolbar.html:7
 msgid "Italic"
-msgstr ""
+msgstr "Itálico"
 
 #: martor/templates/martor/toolbar.html:10
 msgid "Horizontal Line"
-msgstr ""
+msgstr "Linha Horizontal"
 
 #: martor/templates/martor/toolbar.html:13
 #: martor/templates/martor/toolbar.html:16
 #: martor/templates/martor/toolbar.html:17
 #: martor/templates/martor/toolbar.html:18
 msgid "Heading"
-msgstr ""
+msgstr "Título"
 
 #: martor/templates/martor/toolbar.html:22
 msgid "Pre or Code"
-msgstr ""
+msgstr "Pré ou Código"
 
 #: martor/templates/martor/toolbar.html:25
 msgid "Pre"
-msgstr ""
+msgstr "Pré"
 
 #: martor/templates/martor/toolbar.html:29
 msgid "Quote"
-msgstr ""
+msgstr "Citação"
 
 #: martor/templates/martor/toolbar.html:32
 msgid "Unordered List"
-msgstr ""
+msgstr "Lista não ordenada"
 
 #: martor/templates/martor/toolbar.html:35
 msgid "Ordered List"
-msgstr ""
+msgstr "Lista ordenada"
 
 #: martor/templates/martor/toolbar.html:39
 msgid "URL/Link"
-msgstr ""
+msgstr "URL/Link"
 
 #: martor/templates/martor/toolbar.html:42
 msgid "Insert Image Link"
-msgstr ""
+msgstr "Insira o endereço da imagem"
 
 #: martor/templates/martor/toolbar.html:45
 #: martor/templates/martor/toolbar.html:47
 msgid "Upload an Image"
-msgstr ""
+msgstr "Upload da imagem"
 
 #: martor/templates/martor/toolbar.html:49
 msgid "Direct Mention a User"
-msgstr ""
+msgstr "Menção direta à Usuário"
 
 #: martor/templates/martor/toolbar.html:52
 msgid "Markdown Guide (Help)"
-msgstr ""
+msgstr "Guia Markdown (Ajuda)"
 
 #: martor/views.py:18 martor/views.py:32 martor/views.py:33
 msgid "Invalid request!"
-msgstr ""
+msgstr "Requisição Inválida!"
 
 #: martor/views.py:75
 #, python-format
 msgid "No users registered as `%(username)s` or user is unactived."
-msgstr ""
+msgstr "Nenhum usuário registrado como `%(username)s` ou usuário inativo."
 
 #: martor/views.py:81
 msgid "Validation Failed for field `username`"
-msgstr ""
+msgstr "Falha na Validação para o campo `username`"
