@@ -7,7 +7,7 @@ def get_requirements():
 
 
 setup(
-    name='martor',
+    name='configured-martor-editor',
     version=__VERSION__,
     packages=find_packages(exclude=["*demo"]),
     include_package_data=True,
