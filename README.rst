@@ -14,7 +14,7 @@ martor |pypi version|
 .. image:: https://img.shields.io/badge/Django-1.8,%201.9,%201.10,%201.11,%202.0-green.svg?style=flat-square
   :target: https://www.djangoproject.com
 
-
+This project has been improved for the purpose of better application in a larger project. We keep the copyrights of **Agus Makmun**.
 **Martor** is Markdown Editor plugin for Django and new face of **DracEditor**.
 
 
